@@ -1,0 +1,1 @@
+document.write( '<iframe frameborder=\"0\"width=\"560px\"height=\"315px\"style=\" width: 560px; height: 315px;\"src=\"//www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD?autoplay=1&ui-start-screen-info=false&sharing-enable=false\"allowfullscreen></iframe>' );
