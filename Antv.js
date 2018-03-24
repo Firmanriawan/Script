@@ -1,1 +1,1 @@
-<iframe frameborder="0"width="480px"height="415px"style=" width: 650; height: 415px;"src="//www.dailymotion.com/embed/video/k161ZiQJV3BfXfen3LX?autoplay=1&ui-start-screen-info=false&sharing-enable=false"allowfullscreen></iframe>
+document.write( '<iframe frameborder=\"0\"width=\"480px\"height=\"415px\"style=\" width: 650; height: 415px;\"src=\"//www.dailymotion.com/embed/video/k161ZiQJV3BfXfen3LX?autoplay=1&ui-start-screen-info=false&sharing-enable=false\"allowfullscreen></iframe>' );
