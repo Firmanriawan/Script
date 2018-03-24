@@ -1,0 +1,1 @@
+document.write( '<iframe src=\"//liveplayer.romaniatv.net/\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\"  allowfullscreen=\"true\" scrolling=\"no\" style=\"border:none;\" height=\"415\" width=\"650\"></iframe>' );
