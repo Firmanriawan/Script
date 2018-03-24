@@ -1,0 +1,1 @@
+document.write( '<iframe frameborder=\"0\"width=\"560px\"height=\"315px\"style=\" width: 560px; height: 315px;\"src=\"http://sport7.pw/8057dfecddabee34cc90884596a84eac-live.html\"allowfullscreen></iframe>\n' );
